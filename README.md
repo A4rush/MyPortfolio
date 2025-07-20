@@ -61,12 +61,6 @@ Follow these steps to run the project locally:
    npm run start
    ```
 
-## 🙏 Acknowledgements
-
-Inspired by modern portfolio designs and developers like [m7mad.dev](https://m7mad.dev).
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE] file for details.
