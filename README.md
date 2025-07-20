@@ -10,8 +10,10 @@
 
 ## 🤵 About
 
-This is the source code for my portfolio site [aarush.dev](https://your-live-site-link-here) (v2).  
-It’s designed to highlight my work as a Full Stack Web Developer, featuring:
+This is the source code for my portfolio site [aarushdevx](https://aarushdevx.web.app/)
+It’s designed to highlight my work as a Full Stack Web Developer.
+
+The site is built with Next.js and scss,featuring:
 
 - 🛠 A clean, minimal design
 - 🚀 Responsive layout for all devices
