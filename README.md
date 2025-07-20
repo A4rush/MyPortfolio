@@ -20,14 +20,53 @@ It’s designed to highlight my work as a Full Stack Web Developer, featuring:
 
 ---
 
-## 🛠 Installation & Development
+## 🛠 Installation & Setup
+
+Follow these steps to run the project locally:
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/A4rush/MyPortfolio.git
+   cd MyPortfolio
    ```
 
-# MyPortfolio
+2. **Install dependencies**
 
-⚡My personal developer portfolio showcasing projects, skills, and experience. Built with modern web technologies for a clean, responsive, and professional design.
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open the project in your browser**
+
+   Go to [http://localhost:3000](http://localhost:3000) to view your portfolio.
+
+## 🚀 Build for Production
+
+1. Generate an optimized production build:
+
+   ```bash
+   npm run build
+   ```
+
+2. Preview the production build locally:
+
+   ```bash
+   npm run start
+   ```
+
+## 🙏 Acknowledgements
+
+Inspired by modern portfolio designs and developers like [m7mad.dev](https://m7mad.dev).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE] file for details.
