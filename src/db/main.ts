@@ -119,7 +119,7 @@ export const ProjectsData = {
   Projects: [
     {
       name: "Linkshortner",
-      image: arabicPoetryImg,
+        image: "/images/arabic-poetry.png",
       technologies: [
         "TypeScript",
         "Next.js",
@@ -135,7 +135,7 @@ export const ProjectsData = {
     },
     {
       name: "Dear Logistics",
-      image: shawerrImg,
+      image: "/images/shawerr.png",
       technologies: [
         "React.js",
         "MongoDB",

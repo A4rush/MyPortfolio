@@ -247,12 +247,12 @@ const Hero: React.FC<HeroProps> = () => {
               src={heroData.img.src}
               alt={"Muhammad's image"}
             /> */}
-            <Image
-              className={`${styles.hero_right_container_imgContainer_image}`}
-              src={heroData.img}
-              alt={"Aarush's image"}
-              priority
-            />
+           <img
+  className={`${styles.hero_right_container_imgContainer_image}`}
+  src="/images/aarush.png"
+  alt="Aarush's image"
+/>
+
           </motion.div>
           <motion.div
             variants={backgroundVariants}

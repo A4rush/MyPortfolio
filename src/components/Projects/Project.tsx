@@ -12,7 +12,7 @@ import styles from "../../styles/components/Projects.module.scss";
 type ProjectProps = {
   data: {
     name: string;
-    image: StaticImageData;
+    image: string; 
     technologies: string[];
     description: string;
     demoUrl: string;
@@ -20,6 +20,7 @@ type ProjectProps = {
   };
   index: number;
 };
+
 
 const Project: React.FC<ProjectProps> = ({ data, index }) => {
   const { SoundActive } = useRecoilValue(soundState);
@@ -48,12 +49,12 @@ const Project: React.FC<ProjectProps> = ({ data, index }) => {
         <div
           className={`${styles.projects_container_project_left_imgContainer}`}
         >
-          <Image
-            className={`${styles.projects_container_project_left_imgContainer_image}`}
-            src={data.image}
-            alt={"project"}
-          />
-        </div>
+      <img
+  className={styles.projects_container_project_left_imgContainer_image}
+  src={data.image}
+  alt={data.name}
+/>
+ </div>
       </div>
       <div className={`${styles.projects_container_project_right}`}>
         <h3 className={`${styles.projects_container_project_right_name}`}>
