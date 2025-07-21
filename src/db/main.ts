@@ -146,7 +146,7 @@ export const ProjectsData = {
       ],
       description:
         "Dear Logistics is a modern logistics management platform built to streamline operations for delivery and transport businesses. It simplifies driver management, order assignments, and workflows, helping companies manage their logistics efficiently and boost overall productivity.",
-      demoUrl: "https://shawerr.com",
+      demoUrl: "https://github.com/A4rush/Dear-Logistics",
       codeUrl: "",
     },
    /* {
