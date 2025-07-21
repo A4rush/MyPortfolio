@@ -12,7 +12,7 @@ export const heroData = {
   img: myImage,
   hi: "Hello! I am",
   name: "Aarush Mishra",
-  expertise: ["Software Engineer", "UI/UX Designer"],
+  expertise: ["Software Engineer", "Full-Stack Web Developer"],
   about:
     "I’m a passionate Full Stack Web Developer based in Mumbai, India. I have a strong interest in UI/UX design and am committed to creating visually stunning and user-friendly websites. I’m looking forward to exploring new opportunities to enhance my skills and contribute to innovative projects.",
   btnText: "Get my resume",
