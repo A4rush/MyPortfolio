@@ -1,5 +1,5 @@
 <h1 align="center">
-  Aarush.dev - Portfolio v2
+  Aarush.dev - Portfolio
 </h1>
 
 <p align="center">
